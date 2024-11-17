@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Yakshin_Nikolai/1.0.0": {
+        "runtime": {
+          "Yakshin_Nikolai.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yakshin_Nikolai/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

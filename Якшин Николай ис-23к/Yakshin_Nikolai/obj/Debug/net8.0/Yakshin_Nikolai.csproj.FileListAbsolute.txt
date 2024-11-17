@@ -1,0 +1,14 @@
+/Users/niko/Desktop/Yakshin_Nikolai/bin/Debug/net8.0/Yakshin_Nikolai
+/Users/niko/Desktop/Yakshin_Nikolai/bin/Debug/net8.0/Yakshin_Nikolai.deps.json
+/Users/niko/Desktop/Yakshin_Nikolai/bin/Debug/net8.0/Yakshin_Nikolai.runtimeconfig.json
+/Users/niko/Desktop/Yakshin_Nikolai/bin/Debug/net8.0/Yakshin_Nikolai.dll
+/Users/niko/Desktop/Yakshin_Nikolai/bin/Debug/net8.0/Yakshin_Nikolai.pdb
+/Users/niko/Desktop/Yakshin_Nikolai/obj/Debug/net8.0/Yakshin_Nikolai.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niko/Desktop/Yakshin_Nikolai/obj/Debug/net8.0/Yakshin_Nikolai.AssemblyInfoInputs.cache
+/Users/niko/Desktop/Yakshin_Nikolai/obj/Debug/net8.0/Yakshin_Nikolai.AssemblyInfo.cs
+/Users/niko/Desktop/Yakshin_Nikolai/obj/Debug/net8.0/Yakshin_Nikolai.csproj.CoreCompileInputs.cache
+/Users/niko/Desktop/Yakshin_Nikolai/obj/Debug/net8.0/Yakshin_Nikolai.dll
+/Users/niko/Desktop/Yakshin_Nikolai/obj/Debug/net8.0/refint/Yakshin_Nikolai.dll
+/Users/niko/Desktop/Yakshin_Nikolai/obj/Debug/net8.0/Yakshin_Nikolai.pdb
+/Users/niko/Desktop/Yakshin_Nikolai/obj/Debug/net8.0/Yakshin_Nikolai.genruntimeconfig.cache
+/Users/niko/Desktop/Yakshin_Nikolai/obj/Debug/net8.0/ref/Yakshin_Nikolai.dll
